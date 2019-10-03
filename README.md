@@ -43,10 +43,10 @@
  [twitter]: http://twitter.com/libgit2sharp
 
 ## Quick contributing guide
-
  - Fork and clone locally
  - Create a topic specific branch. Add some nice feature. Do not forget the tests ;-)
  - Send a Pull Request to spread the fun!
+ - Have Some fun!
 
 More thorough information available in the [wiki][wiki].
 
